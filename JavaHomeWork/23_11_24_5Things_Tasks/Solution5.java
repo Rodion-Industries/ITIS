@@ -4,23 +4,23 @@ public class Solution5 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		// // №1
-		// System.out.println("Введите 15 значений массива: ");
-		// int[] arr = new int[15];
-		// for (int i = 0; i < 15; i++) {
-		// 	arr[i] = sc.nextInt();
-		// }
+		System.out.println("Введите 15 значений массива: ");
+		int[] arr = new int[15];
+		for (int i = 0; i < 15; i++) {
+			arr[i] = sc.nextInt();
+		}
 
 		// // а) 
 		// for (int j = 2; j < 5; j++) {
 		// 	int k1 = arr[j];
-		// 	int k2 = arr[10-j];
+		// 	int k2 = arr[11-j];
 		// 	arr[j] = k2;
-		// 	arr[10-j] = k1;
+		// 	arr[11-j] = k1;
 		// }
 		// System.out.println(Arrays.toString(arr));
 
 
-		// // б)
+		// б)
 		// System.out.println("Введите k: ");
 		// int k = sc.nextInt();
 		// System.out.println("Введите s: ");
@@ -146,7 +146,7 @@ public class Solution5 {
 
 
 
-		// // №3
+		// // // №3
 		// System.out.println("Введите длину послед-ти: ");
 		// int n = sc.nextInt();
 		// System.out.println("В одной строке введите элементы послед-ти через пробел: ");
@@ -251,7 +251,7 @@ public class Solution5 {
 
 
 
-		// // №4
+		// // // №4
 		// System.out.println("Введите кол-во строк матрицы: ");
 		// int m = sc.nextInt();
 		// System.out.println("Введите кол-во столбцов матрицы: ");
