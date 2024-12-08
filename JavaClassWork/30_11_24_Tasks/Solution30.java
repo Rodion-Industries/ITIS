@@ -102,15 +102,15 @@ public class Solution30 {
 		// int n  = sc.nextInt();
 		// System.out.println("Размер вашей матрицы: 18x"+n);
 		// System.out.println("Введите в каждой строке элементы строк матрицы: ");
-		// int[][] arr = new int[18][n];
-		// for (int i = 0; i < 18; i++) {
+		// int[][] arr = new int[3][n];
+		// for (int i = 0; i < 3; i++) {
 		// 	for (int j = 0; j < n; j++) {
 		// 		arr[i][j] = sc.nextInt();
 		// 	}
 		// }
 
-		// int[] massive = new int[18];
-		// for (int p = 0; p < 18; p++) {
+		// int[] massive = new int[3];
+		// for (int p = 0; p < 3; p++) {
 		// 	int max = 0;
 		// 	if (arr[p][0] < 0) {
 		// 		max = arr[p][0] * -1;
@@ -133,7 +133,7 @@ public class Solution30 {
 		// }
 
 		// int maxN = massive[0];
-		// for (int a = 0; a < 18; a++) {
+		// for (int a = 0; a < 3; a++) {
 		// 	if (maxN < massive[a]) {
 		// 		maxN = massive[a];
 		// 	}
@@ -141,7 +141,7 @@ public class Solution30 {
 
 		// System.out.println("Самый большой по модулю элемент в матрице: "+maxN);
 
-		// for (int x = 0; x < 18; x++) {
+		// for (int x = 0; x < 3; x++) {
 		// 	for (int y = 0; y < n; y++) {
 		// 		if (maxN == arr[x][y] || maxN == -1*arr[x][y]) {
 		// 			System.out.println((x+1)+" "+(y+1));
@@ -295,7 +295,7 @@ public class Solution30 {
 
 
 
-		// // №388
+		// №388
 		// System.out.println("Введите Ранг матрицы: ");
 		// int n = sc.nextInt();
 		// System.out.println("Ваша матрица размера "+n+"x"+n);
