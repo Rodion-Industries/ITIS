@@ -76,27 +76,27 @@ public class SolutionT8 {
 	// }
 
 	// public static void main(String[] args) {
-	// 	Scanner sc = new Scanner(System.in);
-	// 	SolutionT8 sol = new SolutionT8();
-	// 	System.out.println("Введите ранг матрицы (квадратной): ");
-	// 	int n = sc.nextInt();
+		// Scanner sc = new Scanner(System.in);
+		// SolutionT8 sol = new SolutionT8();
+		// System.out.println("Введите ранг матрицы (квадратной): ");
+		// int n = sc.nextInt();
 
-	// 	Random random = new Random();
-	// 	int[][] matrix = new int[n][n];
-	// 	for (int i = 0; i < n; i++) {
-	// 		for (int j = 0; j < n; j++) {
-	// 			matrix[i][j] = random.nextInt(-20, 21);
-	// 		}
-	// 	}
+		// Random random = new Random();
+		// int[][] matrix = new int[n][n];
+		// for (int i = 0; i < n; i++) {
+		// 	for (int j = 0; j < n; j++) {
+		// 		matrix[i][j] = random.nextInt(-20, 21);
+		// 	}
+		// }
 
-	// 	System.out.println("Ваша матрица: ");
-	// 	for (int k = 0; k < n; k++) {
-	// 		for (int p = 0; p < n; p++) {
-	// 			System.out.print(matrix[k][p]+" ");
-	// 		}
-	// 		System.out.println();
-	// 	}
-	// 	System.out.println();
+		// System.out.println("Ваша матрица: ");
+		// for (int k = 0; k < n; k++) {
+		// 	for (int p = 0; p < n; p++) {
+		// 		System.out.print(matrix[k][p]+" ");
+		// 	}
+		// 	System.out.println();
+		// }
+		// System.out.println();
 
 	// 	System.out.println("А теперь её немного Транспонируем: ");
 		// int[][] matrixtransp = new int[n][n];
