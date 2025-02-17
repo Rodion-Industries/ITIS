@@ -1,0 +1,3 @@
+Write a program that reads the contents from a file,
+finds a given word or expression in it, and replaces it with another one, writing
+the result to a new file.

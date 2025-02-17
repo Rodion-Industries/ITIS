@@ -1,8 +1,0 @@
-The Software Developer's Burden
-
-The tools you use to develop applications don't seem to help you much. You're still coping with the same old problems; the fashionable new object-oriented techniques seem to have added new problems without solving the old ones. You say to yourself and your friends, "There has to be a better way"!
-
-The Better Way is Here Now
-
-Now there is a better way -- the Java TM programming language platform from Sun Microsystems. Imagine, if you will, this development world...
-
